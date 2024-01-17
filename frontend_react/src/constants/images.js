@@ -34,6 +34,7 @@ import sharepoint from '../assets/sharepoint.png';
 import web3 from '../assets/web3.png';
 import react from '../assets/react.png';
 
+import thisSiteMadeWith from '../assets/thisSiteMadeWith.png';
 
 export default {
   email,
@@ -63,4 +64,5 @@ export default {
   nodeJs,
   sharepoint,
   web3,
+  thisSiteMadeWith,
 };
