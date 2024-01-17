@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
       ) : (
         <div>
-          <h3 className="head-text">
+          <h3 className="head-text footer-text">
             {sentMessageThankYou}
           </h3>
         </div>
