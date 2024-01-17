@@ -1,4 +1,10 @@
+
 .app__footer {
+    background: url('../../assets/letsChat.png');
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+
     flex: 1;
     width: 100%;
     flex-direction: column;
@@ -15,6 +21,7 @@
     align-items: center;
     flex-wrap: wrap;
     margin: 4em 2rem 2rem;
+    opacity: 90%;
   
     .app__footer-card {
       min-width: 290px;
@@ -70,7 +77,8 @@
     width: 60%;
     flex-direction: column;
     margin: 1rem 2rem;
-  
+    opacity: 90%;
+
     div {
       width: 100%;
   
@@ -127,4 +135,8 @@
       width: 100%;
       margin: 1rem 0;
     }
+  }
+
+  .footer-text {
+    opacity: 85%;
   }
